@@ -1,5 +1,5 @@
 {
-    "TOKEN":  "OTI3MTg3NzA2Mzk4NzgxNDYw.YdGk1w.EIH9iyar7e_wqaJQbUFYugJ51SM",
+    "TOKEN":  "YOURBOTTOKEN",
     "PREFIX": "+",
-    "owners": ["702052960481312768"]
+    "owners": ["YOUROWNERID"]
 }
