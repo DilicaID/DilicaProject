@@ -1,5 +1,5 @@
 {
-    "TOKEN":  "YOURBOTTOKEN",
+    "TOKEN":  "BOTTOKEN",
     "PREFIX": "+",
     "owners": ["YOUROWNERID"]
 }
